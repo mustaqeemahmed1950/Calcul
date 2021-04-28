@@ -1,0 +1,26 @@
+#table{
+    border: 2px solid black
+;
+width: 400px;
+
+/* padding: 30px; */
+}
+td{
+    /* padding: px;
+    font-size: 40px;
+     */
+    color: grey;
+    background-color: white;
+}
+#input{
+
+    font-size: 50px;
+    height: 60px;
+    width: 408px;
+    background-color: white;
+}
+.button{
+    width:100px;
+    height: 40px;
+    font-size: 20px;
+}
